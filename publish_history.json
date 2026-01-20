@@ -16,5 +16,14 @@
     "alphaZip": "D:\\CinebrewBuilds\\CineBrew-alpha-0.0.1.zip",
     "repo": "dre4mer12345/CineBrew-Updates",
     "utc": "2026-01-20T04:54:28Z"
+  },
+  {
+    "version": "0.0.1",
+    "tag": "v0.0.1",
+    "channel": "both",
+    "stableZip": "D:\\CinebrewBuilds\\CineBrew-stable-0.0.1.zip",
+    "alphaZip": "D:\\CinebrewBuilds\\CineBrew-alpha-0.0.1.zip",
+    "repo": "dre4mer12345/CineBrew-Updates",
+    "utc": "2026-01-20T04:55:19Z"
   }
 ]
