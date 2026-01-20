@@ -1,0 +1,16 @@
+{
+  "channels": {
+    "alpha": {
+      "version": "0.1.0-alpha",
+      "build": 1,
+      "installerUrl": "",
+      "publishedUtc": ""
+    },
+    "stable": {
+      "version": "0.1.0",
+      "build": 1,
+      "installerUrl": "",
+      "publishedUtc": ""
+    }
+  }
+}
