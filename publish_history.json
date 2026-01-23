@@ -43,5 +43,14 @@
     "alphaZip": "C:\\Users\\ethan\\source\\repos\\StoryboardEditor\\StoryboardEditor\\bin\\Alpha\\Zips\\CineBrew-alpha-0.0.13.zip",
     "repo": "dre4mer12345/CineBrew-Updates",
     "utc": "2026-01-23T06:50:09Z"
+  },
+  {
+    "version": "0.0.14",
+    "tag": "v0.0.14",
+    "channel": "alpha",
+    "stableZip": null,
+    "alphaZip": "C:\\Users\\ethan\\source\\repos\\StoryboardEditor\\StoryboardEditor\\bin\\Alpha\\Zips\\CineBrew-alpha-0.0.14.zip",
+    "repo": "dre4mer12345/CineBrew-Updates",
+    "utc": "2026-01-23T06:51:12Z"
   }
 ]
