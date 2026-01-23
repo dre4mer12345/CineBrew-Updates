@@ -1,10 +1,10 @@
 {
   "channels": {
     "alpha": {
-      "version": "0.0.1",
-      "url": "https://github.com/dre4mer12345/CineBrew-Updates/releases/download/v0.0.1/CineBrew-alpha-0.0.1.zip",
-      "sha256": "e5531e48aea99d552f46ace7f8a73583f5d7abf58a0b39ed50072d73e453076c",
-      "publishedUtc": "2026-01-20T04:55:19Z"
+      "version": "0.0.12",
+      "url": "https://github.com/dre4mer12345/CineBrew-Updates/releases/download/v0.0.12/CineBrew-alpha-0.0.12.zip",
+      "sha256": "422f294a4bc1925ff28666f05356a34cc97235d77f069d05ddd0ced90279f195",
+      "publishedUtc": "2026-01-23T06:49:03Z"
     },
     "stable": {
       "version": "0.0.1",
@@ -13,5 +13,5 @@
       "publishedUtc": "2026-01-20T04:55:19Z"
     }
   },
-  "updatedUtc": "2026-01-20T04:55:19Z"
+  "updatedUtc": "2026-01-23T06:49:03Z"
 }
